@@ -47,15 +47,14 @@ namespace DAL
             return thaotac.SQL_Thuchien("Delete_SANPHAM", name, value, 1);
 
         }
-        public DataTable TimKiemSP(string text)
+        public DataTable SP_timkiem(string Chuoitimkiem)
         {
             name = new string[1];
             value = new object[1];
-            name[0] = "@Chuoitimkiem";
-            
-            return thaotac.SQL_TimKiem("Timkiem_SANPHAM",name, value, 1);
-
+            name[0] = "@Chuoitimkiem"; value[0] = Chuoitimkiem;
+            return thaotac.SQL_TimKiem("Timkiem_SANPHAM", name, value, 1);
         }
+
     }
 
 }

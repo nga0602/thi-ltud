@@ -29,5 +29,9 @@ namespace BLL
         {
             return khdal.KH_delete(MaKhachHang);
         }
+        public DataTable KhachHang_Timkiem(string Chuoitimkiem)
+        {
+            return khdal.KH_timkiem(Chuoitimkiem);
+        }
     }
 }

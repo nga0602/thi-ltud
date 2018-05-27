@@ -52,5 +52,12 @@ namespace DAL
             name[0] = "@MaNhanVien"; value[0] = MaNhanVien;
             return thaotac.SQL_Thuchien("Delete_NHANVIEN", name, value, 1);
         }
+        public DataTable NV_timkiem(string Chuoitimkiem)
+        {
+            name = new string[1];
+            value = new object[1];
+            name[0] = "@Chuoitimkiem"; value[0] = Chuoitimkiem;
+            return thaotac.SQL_TimKiem("TimKiem_NHANVIEN", name, value, 1);
+        }
     }
 }

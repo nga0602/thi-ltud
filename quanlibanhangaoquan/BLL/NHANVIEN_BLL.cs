@@ -29,5 +29,9 @@ namespace BLL
         {
             return nvdal.NV_delete(MaNhanVien);
         }
+        public DataTable NhanVien_Timkiem(string Chuoitimkiem)
+        {
+            return nvdal.NV_timkiem(Chuoitimkiem);
+        }
     }
 }

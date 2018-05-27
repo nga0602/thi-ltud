@@ -27,9 +27,9 @@ namespace BLL
         {
             return spdal.SP_delete(MaSanPham);
         }
-        public DataTable TKSP(string text)
+        public DataTable SanPham_Timkiem(string Chuoitimkiem)
         {
-            return spdal.TimKiemSP(text);
+            return spdal.SP_timkiem(Chuoitimkiem);
         }
     }
 }

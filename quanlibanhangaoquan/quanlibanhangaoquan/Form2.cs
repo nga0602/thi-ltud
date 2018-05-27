@@ -360,10 +360,21 @@ namespace quanlibanhangaoquan
             this.Close();
         }
 
-        private void btntimkiemSP_TextChanged(object sender, EventArgs e)
-        {
+        
 
-            gridSP.DataSource = spbll.TKSP(txttimkiemSP.Text.ToString());
+        private void btntimkiemNV_Click(object sender, EventArgs e)
+        {
+            gridNV.DataSource = nvbll.NhanVien_Timkiem(txttimkiemNV.Text);
+        }
+
+        private void btntimkiemSP_Click(object sender, EventArgs e)
+        {
+            gridSP.DataSource = spbll.SanPham_Timkiem(txttimkiemSP.Text);
+        }
+
+        private void btntimkiemKH_Click(object sender, EventArgs e)
+        {
+            gridKH.DataSource = khbll.KhachHang_Timkiem(txttimkiemKH.Text);
         }
     }
 }

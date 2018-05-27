@@ -400,6 +400,7 @@
             this.btntimkiemSP.TabIndex = 10;
             this.btntimkiemSP.Text = "Tìm kiếm:";
             this.btntimkiemSP.UseVisualStyleBackColor = true;
+            this.btntimkiemSP.Click += new System.EventHandler(this.btntimkiemSP_Click);
             // 
             // label7
             // 
@@ -651,6 +652,7 @@
             this.btntimkiemNV.TabIndex = 14;
             this.btntimkiemNV.Text = "Tìm kiếm";
             this.btntimkiemNV.UseVisualStyleBackColor = true;
+            this.btntimkiemNV.Click += new System.EventHandler(this.btntimkiemNV_Click);
             // 
             // btnthoatNV
             // 
@@ -727,6 +729,7 @@
             this.btntimkiemKH.TabIndex = 26;
             this.btntimkiemKH.Text = "Tìm kiếm";
             this.btntimkiemKH.UseVisualStyleBackColor = true;
+            this.btntimkiemKH.Click += new System.EventHandler(this.btntimkiemKH_Click);
             // 
             // btnthoatKH
             // 
