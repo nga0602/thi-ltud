@@ -122,6 +122,8 @@ namespace quanlibanhangaoquan
             txtmanhanvienNV.Clear();
             txttennhanvienNV.Clear();
             txtdiachiNV.Clear();
+            radionamNV.Checked = false;
+            radionuNV.Checked = false;
             txtsdtNV.Clear();
             txttennhanvienNV.Focus();
         }
