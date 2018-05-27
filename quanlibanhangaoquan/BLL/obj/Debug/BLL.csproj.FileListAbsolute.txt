@@ -1,0 +1,16 @@
+D:\ltud\quanlibanhangaoquan\BLL\bin\Debug\BLL.dll
+D:\ltud\quanlibanhangaoquan\BLL\bin\Debug\BLL.pdb
+D:\ltud\quanlibanhangaoquan\BLL\bin\Debug\DAL.dll
+D:\ltud\quanlibanhangaoquan\BLL\bin\Debug\DAL.pdb
+D:\ltud\quanlibanhangaoquan\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\ltud\quanlibanhangaoquan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\ltud\quanlibanhangaoquan\BLL\obj\Debug\BLL.dll
+D:\ltud\quanlibanhangaoquan\BLL\obj\Debug\BLL.pdb
+E:\nga\quanlibanhangaoquan\BLL\bin\Debug\BLL.dll
+E:\nga\quanlibanhangaoquan\BLL\bin\Debug\BLL.pdb
+E:\nga\quanlibanhangaoquan\BLL\bin\Debug\DAL.dll
+E:\nga\quanlibanhangaoquan\BLL\bin\Debug\DAL.pdb
+E:\nga\quanlibanhangaoquan\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\nga\quanlibanhangaoquan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\nga\quanlibanhangaoquan\BLL\obj\Debug\BLL.dll
+E:\nga\quanlibanhangaoquan\BLL\obj\Debug\BLL.pdb

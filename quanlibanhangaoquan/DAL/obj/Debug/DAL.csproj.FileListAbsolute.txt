@@ -1,0 +1,12 @@
+D:\ltud\quanlibanhangaoquan\DAL\bin\Debug\DAL.dll
+D:\ltud\quanlibanhangaoquan\DAL\bin\Debug\DAL.pdb
+D:\ltud\quanlibanhangaoquan\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\ltud\quanlibanhangaoquan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ltud\quanlibanhangaoquan\DAL\obj\Debug\DAL.dll
+D:\ltud\quanlibanhangaoquan\DAL\obj\Debug\DAL.pdb
+E:\nga\quanlibanhangaoquan\DAL\bin\Debug\DAL.dll
+E:\nga\quanlibanhangaoquan\DAL\bin\Debug\DAL.pdb
+E:\nga\quanlibanhangaoquan\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\nga\quanlibanhangaoquan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\nga\quanlibanhangaoquan\DAL\obj\Debug\DAL.dll
+E:\nga\quanlibanhangaoquan\DAL\obj\Debug\DAL.pdb

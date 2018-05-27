@@ -1,0 +1,10 @@
+D:\ltud\quanlibanhangaoquan\quanlibanhangaoquan\bin\Debug\quanlibanhangaoquan.exe.config
+D:\ltud\quanlibanhangaoquan\quanlibanhangaoquan\bin\Debug\quanlibanhangaoquan.exe
+D:\ltud\quanlibanhangaoquan\quanlibanhangaoquan\bin\Debug\quanlibanhangaoquan.pdb
+D:\ltud\quanlibanhangaoquan\quanlibanhangaoquan\obj\Debug\quanlibanhangaoquan.Form1.resources
+D:\ltud\quanlibanhangaoquan\quanlibanhangaoquan\obj\Debug\quanlibanhangaoquan.Properties.Resources.resources
+D:\ltud\quanlibanhangaoquan\quanlibanhangaoquan\obj\Debug\quanlibanhangaoquan.csproj.GenerateResource.Cache
+D:\ltud\quanlibanhangaoquan\quanlibanhangaoquan\obj\Debug\quanlibanhangaoquan.csproj.CoreCompileInputs.cache
+D:\ltud\quanlibanhangaoquan\quanlibanhangaoquan\obj\Debug\quanlibanhangaoquan.exe
+D:\ltud\quanlibanhangaoquan\quanlibanhangaoquan\obj\Debug\quanlibanhangaoquan.pdb
+D:\ltud\quanlibanhangaoquan\quanlibanhangaoquan\obj\Debug\quanlibanhangaoquan.csprojResolveAssemblyReference.cache
